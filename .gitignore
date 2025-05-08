@@ -1,0 +1,30 @@
+# Flutter/Dart related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Android related
+.android/
+build/
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+
+# VS Code related
+.vscode/
+
+# IntelliJ related
+.idea/
+
+# MacOS/Windows/Linux related (if you use desktop support)
+macos/
+windows/
+linux/
+
+# Other IDEs
+*.iml
